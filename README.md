@@ -3,8 +3,4 @@
 
 #About me
 
-I __enjoy__ sports like:
-⋅⋅*_swimming 
-⋅⋅*basketball 
-⋅⋅*badminton_
-and __my__ favorite color is blue.
+I __enjoy__ sports like,_swimming, basketball, badminton_, and ___my___ favorite color is blue.
