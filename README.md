@@ -4,7 +4,7 @@
 #About me
 
 I __enjoy__ sports like:
-..*_swimming, 
-..*basketball, 
-..*badminton_, 
+⋅⋅*_swimming 
+⋅⋅*basketball 
+⋅⋅*badminton_
 and __my__ favorite color is blue.
